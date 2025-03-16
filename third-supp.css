@@ -1,0 +1,20 @@
+.button1 {
+
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: aliceblue;
+    font-size: large;
+    font-weight: bold;
+}
+
+.button2 {
+
+    background-color: rgb(251, 247, 13);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: rgb(1, 20, 36);
+    font-size: large;
+    font-weight: bold;
+
+}
