@@ -1,0 +1,20 @@
+.odd {
+    background-color: salmon;
+    font-family: "Verdana", Geneva, Tahoma, sans-serif;
+}
+
+.adjust-font-size {
+    font-size: large;
+}
+
+#two {
+    color: blue;
+    font-size: larger;
+}
+
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
+
+/* . class ---- #id */
