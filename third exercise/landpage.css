@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.box {
+    flex: 1;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    line-height: 100vh;
+}
+
+
