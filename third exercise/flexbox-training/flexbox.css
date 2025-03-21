@@ -1,7 +1,5 @@
-.container {
-    display: flex;
-    /* flex-direction: row; */
-    justify-content:space-evenly;
-    align-items: baseline
+.test{
+    font-size: larger;
+    color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
